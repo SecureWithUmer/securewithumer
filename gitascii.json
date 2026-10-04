@@ -25,7 +25,7 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 296,
-        "y": 100
+        "y": 106
       },
       "size": {
         "width": 504,
@@ -38,63 +38,16 @@
       "instanceId": "widget_1791106998285_2"
     },
     {
-      "widgetId": "languages",
-      "name": "Languages Widget",
-      "position": {
-        "x": 0,
-        "y": 400
-      },
-      "size": {
-        "width": 540,
-        "height": 160
-      },
-      "config": {},
-      "locked": false,
-      "visible": false,
-      "zIndex": 4,
-      "instanceId": "widget_1791106998285_3"
-    },
-    {
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
-      "position": {
-        "x": 560,
-        "y": 400
-      },
-      "size": {
-        "width": 240,
-        "height": 160
-      },
-      "config": {
-        "selectedTechs": [
-          "js",
-          "ts",
-          "html",
-          "css",
-          "py",
-          "rust",
-          "go",
-          "cpp"
-        ],
-        "theme": "dark",
-        "perLine": 4
-      },
-      "locked": false,
-      "visible": false,
-      "zIndex": 6,
-      "instanceId": "widget_1791106998285_5"
-    },
-    {
       "instanceId": "widget_1791107608978",
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
-        "x": 0,
-        "y": 100
+        "x": 8,
+        "y": 106
       },
       "size": {
         "width": 280,
-        "height": 288
+        "height": 280
       },
       "config": {
         "accentColor": "#ffa657",
@@ -20410,118 +20363,23 @@
         "dithering": true,
         "detail": "high",
         "staticMode": false,
-        "customWhoami": "Umer Farooq"
+        "customWhoami": "Umer Farooq",
+        "animationLoop": true,
+        "animationLoopDelay": 2000,
+        "loop": true,
+        "loopDelay": 2000
       },
       "locked": false,
       "visible": true,
       "zIndex": 7
-    },
-    {
-      "instanceId": "widget_1791108183162",
-      "widgetId": "premium-ascii-dev-score",
-      "name": "Premium-ascii-dev-score Widget",
-      "position": {
-        "x": 0,
-        "y": 644
-      },
-      "size": {
-        "width": 400,
-        "height": 250
-      },
-      "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d"
-      },
-      "locked": false,
-      "visible": false,
-      "zIndex": 7
-    },
-    {
-      "instanceId": "widget_1791108303658",
-      "widgetId": "godprofile-marquee",
-      "name": "Godprofile-marquee Widget",
-      "position": {
-        "x": 0,
-        "y": 630
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "accentColor": "#b6a891",
-        "marqueeLangs": [
-          "react",
-          "ts",
-          "js",
-          "html",
-          "css",
-          "nodejs",
-          "python",
-          "git",
-          "docker",
-          "linux",
-          "bash",
-          "github",
-          "hibernate"
-        ]
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
-    },
-    {
-      "instanceId": "widget_1791108348799",
-      "widgetId": "surveillance-loadout",
-      "name": "Surveillance-loadout Widget",
-      "position": {
-        "x": 0,
-        "y": 1302
-      },
-      "size": {
-        "width": 780,
-        "height": 200
-      },
-      "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Daily Loadout",
-        "workflow": [
-          "VS Code",
-          "Git",
-          "Docker",
-          "Terminal",
-          "PowerShell",
-          "Linux",
-          "Postman",
-          "Figma",
-          "Nginx",
-          "Apache",
-          "MariaDB"
-        ],
-        "languages": [
-          "TypeScript",
-          "JavaScript",
-          "Rust",
-          "CSS",
-          "Python",
-          "Bash"
-        ]
-      },
-      "locked": false,
-      "visible": false,
-      "zIndex": 10
     },
     {
       "instanceId": "widget_1791108365731",
       "widgetId": "github-readme-stats",
       "name": "Github-readme-stats Widget",
       "position": {
-        "x": 0,
-        "y": 400
+        "x": 8,
+        "y": 426
       },
       "size": {
         "width": 390,
@@ -20538,7 +20396,7 @@
       "name": "Streak-stats Widget",
       "position": {
         "x": 410,
-        "y": 400
+        "y": 426
       },
       "size": {
         "width": 390,
@@ -20550,46 +20408,12 @@
       "zIndex": 12
     },
     {
-      "instanceId": "widget_1791108381860",
-      "widgetId": "profile-trophy",
-      "name": "Profile-trophy Widget",
-      "position": {
-        "x": 0,
-        "y": 810
-      },
-      "size": {
-        "width": 800,
-        "height": 200
-      },
-      "config": {},
-      "locked": false,
-      "visible": false,
-      "zIndex": 13
-    },
-    {
-      "instanceId": "widget_1791108401488",
-      "widgetId": "views-counter",
-      "name": "Views-counter Widget",
-      "position": {
-        "x": 0,
-        "y": 2186
-      },
-      "size": {
-        "width": 200,
-        "height": 96
-      },
-      "config": {},
-      "locked": false,
-      "visible": false,
-      "zIndex": 14
-    },
-    {
       "instanceId": "widget_1791108406592",
       "widgetId": "readme-quotes",
       "name": "Readme-quotes Widget",
       "position": {
-        "x": 0,
-        "y": 2298
+        "x": 96,
+        "y": 2112
       },
       "size": {
         "width": 500,
@@ -20597,42 +20421,8 @@
       },
       "config": {},
       "locked": false,
-      "visible": false,
+      "visible": true,
       "zIndex": 15
-    },
-    {
-      "instanceId": "widget_1791108412601",
-      "widgetId": "awesome-badge",
-      "name": "Awesome-badge Widget",
-      "position": {
-        "x": 0,
-        "y": 2524
-      },
-      "size": {
-        "width": 360,
-        "height": 80
-      },
-      "config": {},
-      "locked": false,
-      "visible": false,
-      "zIndex": 16
-    },
-    {
-      "instanceId": "widget_1791108421013",
-      "widgetId": "ghstats",
-      "name": "Ghstats Widget",
-      "position": {
-        "x": 0,
-        "y": 2620
-      },
-      "size": {
-        "width": 390,
-        "height": 350
-      },
-      "config": {},
-      "locked": false,
-      "visible": false,
-      "zIndex": 17
     }
   ],
   "globalStyles": {
