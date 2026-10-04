@@ -50,7 +50,7 @@
       },
       "config": {},
       "locked": false,
-      "visible": true,
+      "visible": false,
       "zIndex": 4,
       "instanceId": "widget_1791106998285_3"
     },
@@ -80,7 +80,7 @@
         "perLine": 4
       },
       "locked": false,
-      "visible": true,
+      "visible": false,
       "zIndex": 6,
       "instanceId": "widget_1791106998285_5"
     },
@@ -20446,7 +20446,7 @@
       "name": "Godprofile-marquee Widget",
       "position": {
         "x": 0,
-        "y": 1030
+        "y": 630
       },
       "size": {
         "width": 800,
@@ -20521,7 +20521,7 @@
       "name": "Github-readme-stats Widget",
       "position": {
         "x": 0,
-        "y": 580
+        "y": 400
       },
       "size": {
         "width": 390,
@@ -20538,7 +20538,7 @@
       "name": "Streak-stats Widget",
       "position": {
         "x": 410,
-        "y": 580
+        "y": 400
       },
       "size": {
         "width": 390,
@@ -20563,7 +20563,7 @@
       },
       "config": {},
       "locked": false,
-      "visible": true,
+      "visible": false,
       "zIndex": 13
     },
     {

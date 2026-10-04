@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Umer! 👋</h1>
-  <h3>Cybersecurity Enthusiast | Developer</h3>
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Umer!+👋;Cybersecurity+Enthusiast;Developer;Securing+the+digital+world..." alt="Typing Effect" />
 </div>
 
 <p align="center">
@@ -10,9 +9,3 @@
   <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/securewithumer/securewithumer/gitascii/profiles/default/dark.svg" width="100%">
 </picture>
 </p>
-
----
-
-<div align="center">
-  <i>"Securing the digital world, one line of code at a time."</i>
-</div>
