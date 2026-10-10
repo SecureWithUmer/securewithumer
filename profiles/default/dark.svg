@@ -1,5 +1,5 @@
 
-<svg width="800" height="2338" viewBox="0 0 800 2338" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="646" viewBox="0 0 800 646" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="" width="800" height="2338" fill="#060606" rx="0" />
+  <rect class="" width="800" height="646" fill="#060606" rx="0" />
 
   
     <g transform="translate(0, 0)" id="widget-widget_1791106998285_0">
@@ -64,27 +64,27 @@
     </g>
   
 
-    <g transform="translate(296, 106)" id="widget-widget_1791106998285_2">
+    <g transform="translate(296, 110)" id="widget-widget_1791106998285_2">
 
       
       
       <rect class="" x="0" y="0" width="504" height="280" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
       
       <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> SecureWithUmer@github </tspan><tspan fill="#3d444d">─────────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">...............................</tspan><tspan fill="#c9d1d9"> 5 years, 9 days</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">..............................</tspan><tspan fill="#c9d1d9"> 5 years, 10 days</tspan></text>
 <text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#484f58">....................................</tspan><tspan fill="#c9d1d9"> Pakistan</tspan></text>
 <text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">...</tspan><tspan fill="#c9d1d9"> Python, TypeScript, Java, C++, Objectiv…</tspan></text>
 <text x="12" y="100" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">───────────────────────────────────────────────</tspan></text>
 <text x="12" y="118" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Website: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> securewithumer.vercel.app</tspan></text>
 <text x="12" y="136" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">.....................</tspan><tspan fill="#c9d1d9"> github.com/SecureWithUmer</tspan></text>
 <text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">──────────────────────────────────────────</tspan></text>
-<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 10</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 87</tspan></text>
-<text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">..........</tspan><tspan fill="#79c0ff"> 3,402</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 13</tspan></text>
+<text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 10</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 88</tspan></text>
+<text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">..........</tspan><tspan fill="#79c0ff"> 3,405</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 13</tspan></text>
   
     </g>
   
 
-    <g transform="translate(8, 106)" id="widget-widget_1791107608978">
+    <g transform="translate(0, 110)" id="widget-widget_1791107608978">
 
       
       
@@ -407,7 +407,7 @@
     </g>
   
 
-    <g transform="translate(8, 426)" id="widget-widget_1791108365731">
+    <g transform="translate(0, 420)" id="widget-widget_1791108365731">
 
       
       
@@ -478,7 +478,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 134.88032301182;
+        stroke-dashoffset: 134.65873558691112;
       }
     }
   
@@ -505,7 +505,7 @@
 </style>
 <svg fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId" x="16" y="44" width="358" height="150" preserveAspectRatio="xMinYMin meet" viewBox="0 0 467 195">
         <title id="titleId">Umer Farooq's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 87, Total Commits in 2026 : 3391, Total PRs: 2, Total Issues: 3, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 88, Total Commits in 2026 : 3394, Total PRs: 2, Total Issues: 3, Contributed to (last year): 2</desc>
         
 
         
@@ -569,7 +569,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >87</text>
+      >88</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -641,7 +641,7 @@
     </g>
   
 
-    <g transform="translate(410, 426)" id="widget-widget_1791108370517">
+    <g transform="translate(410, 420)" id="widget-widget_1791108370517">
 
       
       
@@ -684,7 +684,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        3,417
+                        3,420
                     </text>
                 </g>
 
@@ -713,7 +713,7 @@
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Oct 8, 2026
+                        Oct 10, 2026
                     </text>
                 </g>
 
@@ -760,36 +760,6 @@
             
         </g>
     </svg>
-  
-  
-    </g>
-  
-
-    <g transform="translate(96, 2112)" id="widget-widget_1791108406592">
-
-      
-      
-      <rect class="" x="0" y="0" width="500" height="210" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
-      
-      
-    <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ DEVELOPER QUOTE ]</text>
-    <g class="developer-quote-card">
-      <rect x="12" y="44" width="476" height="154" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
-      
-      <g transform="translate(28, 85)">
-        <path d="M3 21c3 0 7-1 7-8V5c0-1.25-.75-2-2-2H4c-1.25 0-2 .75-2 2v6c0 1.25.75 2 2 2h3c-.5 4-2 6-4 6zM17 21c3 0 7-1 7-8V5c0-1.25-.75-2-2-2h-4c-1.25 0-2 .75-2 2v6c0 1.25.75 2 2 2h3c-.5 4-2 6-4 6z" fill="#c5ff4a" transform="scale(0.7)" opacity="0.85" />
-      </g>
-
-      <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
-        <tspan x="58" y="99">“Computers are good at following instructions,</tspan><tspan x="58" y="119">but not at reading your mind.”</tspan>
-      </text>
-
-      <text x="468" y="157" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
-        — Donald Knuth
-      </text>
-
-      <circle cx="470" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
-    </g>
   
   
     </g>
