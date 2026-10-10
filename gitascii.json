@@ -25,7 +25,7 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 296,
-        "y": 106
+        "y": 110
       },
       "size": {
         "width": 504,
@@ -42,8 +42,8 @@
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
-        "x": 8,
-        "y": 106
+        "x": 0,
+        "y": 110
       },
       "size": {
         "width": 280,
@@ -20378,8 +20378,8 @@
       "widgetId": "github-readme-stats",
       "name": "Github-readme-stats Widget",
       "position": {
-        "x": 8,
-        "y": 426
+        "x": 0,
+        "y": 420
       },
       "size": {
         "width": 390,
@@ -20396,7 +20396,7 @@
       "name": "Streak-stats Widget",
       "position": {
         "x": 410,
-        "y": 426
+        "y": 420
       },
       "size": {
         "width": 390,
@@ -20412,8 +20412,8 @@
       "widgetId": "readme-quotes",
       "name": "Readme-quotes Widget",
       "position": {
-        "x": 96,
-        "y": 2112
+        "x": 150,
+        "y": 650
       },
       "size": {
         "width": 500,
