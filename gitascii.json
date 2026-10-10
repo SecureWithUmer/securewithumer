@@ -20406,23 +20406,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 12
-    },
-    {
-      "instanceId": "widget_1791108406592",
-      "widgetId": "readme-quotes",
-      "name": "Readme-quotes Widget",
-      "position": {
-        "x": 150,
-        "y": 650
-      },
-      "size": {
-        "width": 500,
-        "height": 120
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 15
     }
   ],
   "globalStyles": {
